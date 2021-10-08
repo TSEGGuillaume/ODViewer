@@ -1,0 +1,8 @@
+TODO list :
+ * Save inferences ;
+ * Don't load model multiple times when the model selection list is unchanged ; 
+ * Don't compute inference on an image that already has been computed, just reload res ; 
+ * Split inference computation and GUI on differents files ; 
+ * Group elements of the GUI which can be handle as one element ;
+ * Clean up the code ;
+ * Optimize the code ;
